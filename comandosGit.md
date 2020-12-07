@@ -5,3 +5,4 @@
 5) Excluir branch "git branch -D nomeDaBranch"
 6) Empurrar p/ repositório remoto "git push origin main"
 7) Criar branch "git checkout -b nomeDaBranch"
+8) Add p/ stage e commmitar "git commit -am "mensagemAqui"
