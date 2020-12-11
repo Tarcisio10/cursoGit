@@ -6,3 +6,4 @@
 6) Empurrar p/ repositório remoto "git push origin main" origin=git master/main = onde eu edito o código;
 7) Criar branch "git checkout -b nomeDaBranch";
 8) Add p/ stage e commmitar "git commit -am "mensagemAqui";
+9) Inicia um repositório "git init"
