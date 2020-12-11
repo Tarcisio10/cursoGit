@@ -8,3 +8,4 @@
 8) Add p/ stage e commmitar "git commit -am "mensagemAqui";
 9) Inicia um repositório "git init"
 10) Olá nao salvei 
+11)
